@@ -1,0 +1,6 @@
+﻿
+/*11/25/2022*/
+Author William doty.
+
+Built an app that allows you to get the video stream from a webcam.
+Next Update, if reviseded should be to save video to a file.
